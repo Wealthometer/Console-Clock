@@ -5,6 +5,8 @@ using namespace std;
 
 int main ()
 {
+    cout << "DIGITAL CLOCK" << endl;
+    cout << "............." << endl;
     int h, m, s, err, a;
     err = a = 0;
     while (err == 0)
